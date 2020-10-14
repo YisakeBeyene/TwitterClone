@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jmwai80/TwitterClone/blob/master/VedioWalkThrough_Assgn3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/YisakeBeyene/TwitterClone/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Peek-Linux](https://github.com/phw/peek).
 
